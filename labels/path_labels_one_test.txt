@@ -1,0 +1,2 @@
+/home/usr/CNN_Image_retrieval/images/03657.ppm	25
+
